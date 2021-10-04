@@ -84,6 +84,5 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/shinyasato/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="https://www.facebook.com/shinya.sato.353/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-  <a href="https://twitter.com/shinSG4"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
   <a href="https://www.instagram.com/satoshinbp/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
