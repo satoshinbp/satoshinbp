@@ -12,37 +12,56 @@
 - 📫 How to reach me: **0113shin.s@gmail.com**
 
 ## 🧰 Languages and Tools:
+### With Work Experience:
 
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
-  </a>
-  <a href="https://material-ui.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  </a>
+<p align="left">
   <a style="padding-right:8px;" href="https://nodejs.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="48" height="48"/>
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/>
   </a>
-  <a href="https://jestjs.io/ja/" target="_blank">
-    <img src="assets/icons/jest-logo.svg" width="40" height="40" />
+  <a href="https://graphql.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" width="48" height="48"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+  <a href="https://www.apollographql.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/apollo.png" alt="apollo" width="48" height="48"/>
   </a>
-  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="48" height="48"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="48" height="48"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="48" height="48"/>
+  </a>
+  <a href="https://mui.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="mui" width="48" height="48"/>
+  </a>
+  <a href="https://jestjs.io/ja/" target="_blank">
+    <img src="assets/icons/jest-logo.svg" alt="jest" width="48" height="48" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="48" height="48"/>
+  </a>
+</p>
+  
+  
+### Others:
+  
+<p align="left">
+  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+  </a> 
+  <a href="https://redux.js.org" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -52,12 +71,6 @@
   </a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
-  </a>   
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
   </a>
 </p>
 <br/>
