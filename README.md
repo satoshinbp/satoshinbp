@@ -10,7 +10,6 @@
 - 👀 I’m looking for **job opportunities**
 - 📁 All of my projects are available at **[My Portfolio](https://shinya-sato.net)**
 - 📫 How to reach me: **0113shin.s@gmail.com**
-- ⚡ Fun fact: **I love watching movies, playing games, and working out**
 
 ## 🧰 Languages and Tools:
 
