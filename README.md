@@ -5,8 +5,8 @@
 
 ## 👨‍⚕️ About Me
 
-- 👨‍💻 I’m currently working on **[Grabo](https://github.com/satoshinbp/grabo)**
-- 🌱 I’m currently learning **React Native and TypeScript**
+- 👨‍💻 I’m currently working in **[Dashlabs]([https://github.com/satoshinbp/grabo](https://dashlabs.ai/))**
+- 🌱 I’m currently learning **GraphQL**
 - 👀 I’m looking for **job opportunities**
 - 📁 All of my projects are available at **[My Portfolio](https://shinya-sato.net)**
 - 📫 How to reach me: **0113shin.s@gmail.com**
