@@ -15,6 +15,12 @@
 ### With Work Experience:
 
 <p align="left">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="48" height="48"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="48" height="48"/>
+  </a>
   <a style="padding-right:8px;" href="https://nodejs.org" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="48" height="48"/>
   </a>
