@@ -5,8 +5,8 @@
 
 ## 👨‍⚕️ About Me
 
-- 👨‍💻 I’m currently working in **[Dashlabs](https://dashlabs.ai/)**
-- 🌱 I’m currently learning **GraphQL**
+- 👨‍💻 I’m currently working in **[D3 Security](https://d3security.com/)**
+- 🌱 I’m currently learning **C#**
 - 👀 I’m looking for **job opportunities**
 - 📁 All of my projects are available at **[My Portfolio](https://shinya-sato.net)**
 - 📫 How to reach me: **0113shin.s@gmail.com**
