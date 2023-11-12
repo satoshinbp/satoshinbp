@@ -35,11 +35,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/satoshinbp/github-readme-activity-graph"><img alt="Shinya Sato's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=satoshinbp&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## 🤝 Connect with Me:
 
 <p align="left">
