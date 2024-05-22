@@ -1,12 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center" style="transform:translateX(-18px)"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey, I'm Shinya</h1>
-<p align="center" style="margin-top:-12px">Backend Software Engineer</p>
+<p align="center" style="margin-top:-12px">Software Engineer</p>
 
 ## 👨‍⚕️ About Me
 
-- 👨‍💻 I’m currently working in **[D3 Security](https://d3security.com/)**
-- 🌱 I’m currently learning **C#**
 - 👀 I’m looking for **job opportunities**
 - 📁 All of my projects are available at **[My Portfolio](https://shinya-sato.net)**
 - 📫 How to reach me: **0113shin.s@gmail.com**
@@ -18,10 +16,10 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/000000/python.png" alt="python"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="microsoft-sql-server"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/000000/sql.png" alt="sql"/>
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="mongodb"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/000000/react-native" alt="react"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-color-tal-revivo.png" alt="azure-devops-server"/>
 </p>
 
 ## 📊 My Github Stats
